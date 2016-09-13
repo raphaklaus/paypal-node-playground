@@ -1,0 +1,22 @@
+{
+  "name": "paypal-node-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaklaus/paypal-node-playground.git"
+  },
+  "author": "Raphael D. Pinheiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaklaus/paypal-node-playground/issues"
+  },
+  "homepage": "https://github.com/raphaklaus/paypal-node-playground#readme",
+  "devDependencies": {
+    "paypal-rest-sdk": "^1.6.9"
+  }
+}
